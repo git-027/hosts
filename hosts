@@ -3944,6 +3944,15 @@ fe80::1%lo0	localhost
 
 # iTunes Start
 23.214.233.166	s.mzstatic.com
+23.77.240.73    se.itunes.apple.com
+23.77.240.73    su.itunes.apple.com
+184.84.52.148   upp.itunes.apple.com
+184.84.52.148   play.itunes.apple.com
+184.84.52.148   client-api.itunes.apple.com
+184.84.52.148   search.itunes.apple.com
+184.84.53.7     radio.itunes.apple.com
+184.84.53.7     radio-activity.itunes.apple.com
+184.84.53.7     radio-services.itunes.apple.com
 # iTunes End
 
 # Modified hosts end
